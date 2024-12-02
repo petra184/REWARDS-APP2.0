@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@calendar/*": ["app/calendar/*"],
+        "@home/*": ["app/home/*"],
+        "@log_in/*": ["app/login_screen/*"],
+        "@profile/*": ["app/profile/*"],
+        "@rewards/*": ["app/rewards/*"],
+        "@scanner/*": ["app/scanner/*"],
+        "@sign_in/*": ["app/signun_screen/*"],
+        "@team_details/*": ["app/team_details/*"],
+        "@user_profile/*": ["app/user_profile/*"],
+      }
+    }
+  }
